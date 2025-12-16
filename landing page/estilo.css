@@ -1,0 +1,121 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #188B0C;
+    height: 165px;
+
+    
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+img{
+
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    margin-top: 13px;
+
+    
+}
+body{
+  background-color: #d9d9d9;
+  
+
+}
+#letreiro h1{
+  font-size: 50px;
+  margin: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+h4{
+  font-size: 28px;
+    font-family: "Poppins", sans-serif;
+
+}
+h1,h4{
+  text-align: center;
+  
+}
+
+
+
+.footer {
+  position: fixed;       
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #188B0C;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 14px;
+}
+
+
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.contacts h2 {
+  text-align: center; 
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+.contacts p {
+  text-align: left; 
+  margin: 5px 0;
+  font-size: 20px;
+}
+
+.contacts a {
+  color: white;
+  text-decoration: none;
+}
+
+
+
+.footer h1 {
+  margin-top: 20px;
+  font-size: 16px;
+  text-align: center;
+}
+
+
+#principal{
+  display: flex;
+  justify-content: center;
+
+}
+
+
+#principal img{
+  height: 410px;
+  width: 579px;
+  border-radius: 50%;
+  align-self: flex-end;
+}
+
+#letreiro{
+  margin-left: 30px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+h2{
+    font-family: "Montserrat", sans-serif;
+
+}
+p{
+      font-family: "Poppins", sans-serif;
+
+}
+
